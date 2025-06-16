@@ -14,6 +14,7 @@ Welcome to **UX for Devs**, a lightweight course focused on user experience prin
    - [Usability Testing](docs/usability-testing.md)
    - [Use Cases and Trends](docs/use-cases.md)
    - [Mobile UX](docs/mobile.md)
+   - [UX for Compiler Creators](docs/compiler-ux.md)
 2. Each file is written in Markdown so you can read it directly on GitHub or in any text editor.
 
 For a quick overview of the course, see [`docs/README.md`](docs/README.md), which lists each lesson with a short description. This repository is ideal for developers who want practical guidance on building user-friendly interfaces with clear, concise examples.
