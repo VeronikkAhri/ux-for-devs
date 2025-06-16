@@ -15,6 +15,7 @@ This repository contains a self-paced course on user experience (UX) for develop
 - [9. Mobile UX](mobile.md)
 - [10. UX for Compiler Creators](compiler-ux.md)
 - [11. Repository Examples](repo-examples.md)
+- [12. UI Design Fundamentals](ui-design.md)
 
 Each document focuses on practical guidance, clear examples, and explanations that can help improve the user experience of the products you build.
 
