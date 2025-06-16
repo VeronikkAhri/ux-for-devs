@@ -17,3 +17,11 @@ Welcome to **UX for Devs**, a lightweight course focused on user experience prin
 2. Each file is written in Markdown so you can read it directly on GitHub or in any text editor.
 
 For a quick overview of the course, see [`docs/README.md`](docs/README.md), which lists each lesson with a short description. This repository is ideal for developers who want practical guidance on building user-friendly interfaces with clear, concise examples.
+
+## Why Documentation Only?
+
+A code-free approach keeps the focus on principles and methods rather than specific tools. Each lesson outlines practices you can apply in any language or framework. Copy the examples into your own projects and modify them to see how UX concepts translate to real code.
+
+## Contributing
+
+If you have suggestions or want to add additional examples, open an issue or submit a pull request. Contributions that help clarify or expand the lessons are welcome.

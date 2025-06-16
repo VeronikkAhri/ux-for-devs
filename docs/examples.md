@@ -120,3 +120,61 @@ Inline validation helps users fix mistakes immediately, reducing frustration.
 ## Exercise
 
 Pick a feature in your own project and improve its UX using what you've learned. Focus on clarity, feedback, and accessibility. Share your code with a friend or colleague and ask for their thoughts.
+
+## Example: Accessible Modal Dialog
+
+```html
+<button id="open-dialog">Info</button>
+<div id="modal" role="dialog" aria-modal="true" hidden>
+  <p>This dialog describes a critical update.</p>
+  <button id="close-dialog">Close</button>
+</div>
+```
+
+```javascript
+const modal = document.getElementById('modal');
+const openBtn = document.getElementById('open-dialog');
+const closeBtn = document.getElementById('close-dialog');
+openBtn.addEventListener('click', () => {
+  modal.hidden = false;
+  modal.focus();
+});
+closeBtn.addEventListener('click', () => {
+  modal.hidden = true;
+  openBtn.focus();
+});
+```
+
+Using `role="dialog"` and returning focus to the trigger ensures assistive technology users aren’t trapped inside the modal.
+
+## Example: Sticky Header
+
+```css
+header {
+  position: sticky;
+  top: 0;
+  background: #fff;
+  border-bottom: 1px solid #ccc;
+}
+```
+
+A sticky header keeps key navigation visible as users scroll long pages.
+
+## Example: Live Region Updates
+
+```html
+<div id="status" aria-live="polite"></div>
+```
+
+```javascript
+function announce(message) {
+  const status = document.getElementById('status');
+  status.textContent = message;
+}
+```
+
+Live regions provide dynamic notifications without interrupting screen reader users.
+
+## Additional Exercise
+
+Refactor an existing component in your project to improve keyboard support. Document the before-and-after behavior and note any challenges you encountered.

@@ -50,3 +50,22 @@ Understanding when and how to apply UX techniques helps you build interfaces tha
 - **Augmented reality (AR)** is expanding, overlaying digital elements onto the real world for interactive experiences.
 
 Keep these examples and trends in mind as you design and build new features. Adapting to your audience and staying aware of industry changes will help your products remain relevant and enjoyable.
+
+### Customer Support Chatbots
+- **When:** Automating initial customer inquiries on websites or mobile apps.
+- **How:** Provide quick answers, escalate complex questions to humans, and personalize responses when possible.
+- **Why:** Efficient support builds trust and reduces wait times for users.
+
+### Public Kiosks and Displays
+- **When:** Users interact with terminals at museums, airports, or retail spaces.
+- **How:** Keep instructions short, use big touch targets, and allow transactions to be completed quickly.
+- **Why:** People expect information fast and may be unfamiliar with the device.
+
+## More Trends Influencing UX
+
+- **Minimalist layouts** draw attention to essential content without distraction.
+- **Neumorphism** uses subtle shadows and highlights for a soft 3D effect, though it must be balanced with accessibility.
+- **Data visualization** helps users interpret large datasets through charts and infographics.
+- **Cross-platform consistency** ensures that apps feel familiar on desktop, mobile, and emerging devices.
+
+Continually review these use cases and trends to spark ideas for your own projects. The best UX solutions often come from observing real-world needs and adapting successful patterns.

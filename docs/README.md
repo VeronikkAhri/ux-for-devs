@@ -15,3 +15,9 @@ This repository contains a self-paced course on user experience (UX) for develop
 - [9. Mobile UX](mobile.md)
 
 Each document focuses on practical guidance, clear examples, and explanations that can help improve the user experience of the products you build.
+
+## How to Navigate the Course
+
+Start with the introduction, then progress through the topics at your own pace. Many sections reference one another, so feel free to jump between them as needed. The examples file includes small code snippets that demonstrate key ideas from the other lessons.
+
+If you’re new to UX, focus on the principles and accessibility guides first. Developers looking to refine their skills may want to dive straight into the dev tips and usability testing sections.

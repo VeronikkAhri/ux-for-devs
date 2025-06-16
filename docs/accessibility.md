@@ -17,3 +17,18 @@ Accessibility ensures that everyone, including people with disabilities, can use
 5. **Give controls clear focus styles** to indicate where keyboard users are on the page.
 
 Building accessibility into your workflow leads to products that are inclusive and easier for everyone to use. It may take more effort upfront, but the benefits reach a much wider audience.
+
+## Testing Tips
+
+- Run automated tools like axe or Lighthouse to catch basic contrast and labeling errors.
+- Include users with disabilities in your usability tests to uncover real-world barriers.
+- Review error messages and notifications for screen reader compatibility.
+
+## Common Issues to Watch For
+
+1. **Missing alt text** on decorative images that still get focus.
+2. **Keyboard traps** where users cannot tab away from a modal or menu.
+3. **Lack of ARIA roles** for custom widgets such as sliders or dropdowns.
+4. **Inconsistent heading order** that makes it hard to skim with assistive tech.
+
+Remember: accessibility is an ongoing process. Revisit these steps whenever you introduce new components or features.

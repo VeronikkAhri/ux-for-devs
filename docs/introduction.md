@@ -25,3 +25,25 @@ By the end of this course you will be able to:
 Each file in the `docs/` folder is a lesson you can read in any order, though we recommend starting from the top. Grab a notebook or open a blank document to jot down ideas as you go. After each lesson, consider how you might apply the concepts to your own projects. The more you practice, the easier it becomes to spot improvements in your apps.
 
 Above all, have fun exploring! UX is as much about creativity as it is about technical know-how. Challenge yourself to think like your users and build something they will love.
+
+## Course Overview
+
+This course is broken into short lessons so you can learn at your own pace. The documentation covers everything from foundational principles to hands-on examples. As you progress, compare what you learn with apps you use every day.
+
+### Lesson Highlights
+- **UX Principles:** Explore key ideas like consistency and hierarchy.
+- **User Groups:** Learn how to design for kids, operators, and everyone in between.
+- **Developer Tips:** Understand how small coding decisions impact usability.
+- **Accessibility Basics:** Make your work inclusive and compliant.
+- **Usability Testing:** Gather feedback to refine your ideas.
+
+## Tips for Success
+
+1. **Experiment often.** Try new approaches in small prototypes.
+2. **Ask for feedback.** Share your designs with peers or users early on.
+3. **Observe real behavior.** Pay attention to how people actually use your product.
+4. **Document your process.** Keep notes on what works and what doesn’t for future reference.
+
+## Additional Resources
+
+Once you’ve finished the lessons, explore books and articles about UX research, design systems, and coding patterns. Communities like online forums or local meetups can also help you continue learning.
