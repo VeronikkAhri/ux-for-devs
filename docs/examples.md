@@ -27,8 +27,7 @@ button.addEventListener('click', () => {
 </form>
 ```
 
-This markup ensures screen readers understand the purpose of each field and the
-form itself.
+This markup ensures screen readers understand the purpose of each field and the form itself.
 
 ## Example: Clear Error Messaging
 
@@ -57,8 +56,7 @@ Explicit error messages guide users toward completing tasks successfully.
 }
 ```
 
-Flexbox lets the interface adapt to different screen sizes so content stays
-usable on mobile and desktop.
+Flexbox lets the interface adapt to different screen sizes so content stays usable on mobile and desktop.
 
 ## Example: Progress Indicator
 
@@ -83,6 +81,42 @@ button.addEventListener('click', () => {
 
 This feature taps into a current trend. Many people prefer darker UIs, especially at night.
 
+## Example: Loading Skeleton
+
+```html
+<div class="card loading">
+  <div class="placeholder title"></div>
+  <div class="placeholder text"></div>
+</div>
+```
+
+```css
+.loading .placeholder {
+  background: #eee;
+  animation: pulse 1s infinite ease-in-out;
+}
+```
+
+Skeleton screens let users know content is on the way and improve the perception of speed.
+
+## Example: Inline Form Validation
+
+```javascript
+const input = document.getElementById('email');
+input.addEventListener('blur', () => {
+  if (!input.validity.valid) {
+    input.classList.add('error');
+    input.setAttribute('aria-describedby', 'email-error');
+  }
+});
+```
+
+```html
+<span id="email-error" class="error-message">Please enter a valid email address.</span>
+```
+
+Inline validation helps users fix mistakes immediately, reducing frustration.
+
 ## Exercise
 
-Pick a feature in your own project and improve its UX using what you've learned. Focus on clarity, feedback, and accessibility.
+Pick a feature in your own project and improve its UX using what you've learned. Focus on clarity, feedback, and accessibility. Share your code with a friend or colleague and ask for their thoughts.

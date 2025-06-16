@@ -16,4 +16,4 @@ Welcome to **UX for Devs**, a lightweight course focused on user experience prin
    - [Mobile UX](docs/mobile.md)
 2. Each file is written in Markdown so you can read it directly on GitHub or in any text editor.
 
-This repository is ideal for developers who want practical guidance on building user-friendly interfaces with clear, concise examples.
+For a quick overview of the course, see [`docs/README.md`](docs/README.md), which lists each lesson with a short description. This repository is ideal for developers who want practical guidance on building user-friendly interfaces with clear, concise examples.

@@ -8,4 +8,13 @@ Testing your designs with real users helps uncover issues you might miss on your
 4. **Take notes.** Record where they struggle or succeed. Look for patterns across participants.
 5. **Refine the design.** Use the results to improve your interface, then test again.
 
+## Remote vs In-Person
+
+- **Remote testing** lets you reach people anywhere in the world through screen sharing or dedicated tools. It is convenient but requires clear instructions.
+- **In-person sessions** allow you to notice body language and pick up subtle cues, though scheduling can be more difficult.
+
+## Analyzing Results
+
+After each session, summarize what you observed. Focus on high-impact issues that multiple participants encountered. Share your findings with the team and brainstorm solutions. Small iterations based on user feedback lead to big improvements over time.
+
 Iterative testing keeps your project user-focused and leads to a smoother final product.

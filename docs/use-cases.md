@@ -29,6 +29,16 @@ Understanding when and how to apply UX techniques helps you build interfaces tha
 - **How:** Start with responsive layouts and prioritize content for small screens before adding desktop enhancements.
 - **Why:** Mobile traffic often surpasses desktop, so a tailored experience leads to happier visitors.
 
+### Educational Platforms for Kids
+- **When:** Building learning apps aimed at younger audiences.
+- **How:** Break lessons into bite-sized chunks, add progress rewards, and keep instructions concise.
+- **Why:** Children have shorter attention spans and benefit from positive reinforcement.
+
+### Command-Line Utilities for Developers
+- **When:** Providing tools for technical users who prefer the terminal.
+- **How:** Keep commands consistent, offer clear help text, and provide examples in documentation.
+- **Why:** Developers work efficiently when commands behave predictably and output is easy to parse.
+
 ## Current Trends
 
 - **Dark mode support** helps reduce eye strain in low-light environments.
@@ -36,5 +46,7 @@ Understanding when and how to apply UX techniques helps you build interfaces tha
 - **Voice interfaces** continue to grow, especially on smart speakers and mobile devices.
 - **Micro-interactions** delight users with small animations or sound effects when they complete actions.
 - **Sustainable design** focuses on energy efficiency and reducing waste in digital products.
+- **Data privacy awareness** encourages transparent policies and simple settings for sharing or deleting data.
+- **Augmented reality (AR)** is expanding, overlaying digital elements onto the real world for interactive experiences.
 
-Keep these examples and trends in mind as you design and build new features.
+Keep these examples and trends in mind as you design and build new features. Adapting to your audience and staying aware of industry changes will help your products remain relevant and enjoyable.
