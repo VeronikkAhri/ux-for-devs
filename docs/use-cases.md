@@ -24,6 +24,11 @@ Understanding when and how to apply UX techniques helps you build interfaces tha
 - **How:** Use large touch targets, provide quick feedback, and minimize load times.
 - **Why:** Gamers expect immediate response and intuitive controls on mobile devices.
 
+### Mobile-First Websites
+- **When:** Users primarily access your site from phones and tablets.
+- **How:** Start with responsive layouts and prioritize content for small screens before adding desktop enhancements.
+- **Why:** Mobile traffic often surpasses desktop, so a tailored experience leads to happier visitors.
+
 ## Current Trends
 
 - **Dark mode support** helps reduce eye strain in low-light environments.

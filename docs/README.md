@@ -12,5 +12,6 @@ This repository contains a self-paced course on user experience (UX) for develop
 - [6. Accessibility Basics](accessibility.md)
 - [7. Usability Testing](usability-testing.md)
 - [8. Use Cases and Trends](use-cases.md)
+- [9. Mobile UX](mobile.md)
 
 Each document focuses on practical guidance, clear examples, and explanations that can help improve the user experience of the products you build.
