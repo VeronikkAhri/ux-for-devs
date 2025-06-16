@@ -47,3 +47,25 @@ This course is broken into short lessons so you can learn at your own pace. The 
 ## Additional Resources
 
 Once you’ve finished the lessons, explore books and articles about UX research, design systems, and coding patterns. Communities like online forums or local meetups can also help you continue learning.
+
+## UX vs. UI
+
+People often use "UX" and "UI" interchangeably, but they represent different aspects of a product. **User experience** encompasses the overall feeling someone has when interacting with your application. **User interface** focuses on the visual and interactive elements like buttons, typography, and color. This course highlights the relationship between the two so you can design interfaces that look good and feel intuitive.
+
+## The Design Thinking Process
+
+1. **Empathize:** Start by researching your audience through interviews and observations.
+2. **Define:** Summarize what users need and pinpoint the core problems you want to solve.
+3. **Ideate:** Brainstorm multiple solutions without judging them. Encourage wild ideas to spark creativity.
+4. **Prototype:** Turn the best concepts into lightweight prototypes—paper sketches, wireframes, or basic code.
+5. **Test:** Share your prototypes with users to gather feedback and refine the concept.
+
+You can repeat these steps as often as needed. Many teams cycle through them quickly to reach a polished solution.
+
+## What This Course Does Not Cover
+
+We focus on high-level UX methods and practical examples rather than specific frameworks or design tools. If you want in-depth tutorials on Sketch, Figma, or a particular frontend library, you may prefer a dedicated design or coding course. Here, you will gain a broad understanding of principles you can apply in any environment.
+
+## Continuing Beyond the Course
+
+Treat this repository as a springboard. Keep a design journal to document your observations about other apps, or start a side project to experiment with layout ideas. The more you practice, the more natural it becomes to think about users whenever you sit down to write code.

@@ -25,3 +25,11 @@ A code-free approach keeps the focus on principles and methods rather than speci
 ## Contributing
 
 If you have suggestions or want to add additional examples, open an issue or submit a pull request. Contributions that help clarify or expand the lessons are welcome.
+
+## Course Structure
+
+The project is organized so you can navigate directly through the `docs/` folder. Each file corresponds to a lesson, and the README within that directory provides an index of topics. Because there is no runtime code, you can download the repository and read it offline or print sections that you find useful.
+
+## Feedback and Updates
+
+User experience practices evolve as new devices and techniques appear. If you notice any outdated advice or want to suggest additional topics, feel free to open an issue. Your feedback helps keep the material relevant for everyone.

@@ -32,3 +32,19 @@ Building accessibility into your workflow leads to products that are inclusive a
 4. **Inconsistent heading order** that makes it hard to skim with assistive tech.
 
 Remember: accessibility is an ongoing process. Revisit these steps whenever you introduce new components or features.
+
+## WCAG in Brief
+
+The Web Content Accessibility Guidelines (WCAG) provide a shared standard for making web content more accessible. The main principles are that content should be **perceivable**, **operable**, **understandable**, and **robust**. Familiarize yourself with these guidelines to ensure your project meets common legal and ethical standards.
+
+## Accessible Animation
+
+Animations can add delight but may cause issues for people with motion sensitivity. Offer reduced-motion alternatives and avoid flashing or strobing effects that could trigger seizures. Test animations with a screen reader to ensure important information is not lost if the animation is skipped.
+
+## Further Resources
+
+- [WAI-ARIA Authoring Practices](https://www.w3.org/WAI/ARIA/apg/) for implementing custom widgets.
+- Community accessibility checklists to help you review new components.
+- Talks and blogs from people with disabilities describing their real-world challenges.
+
+Taking time to study these resources deepens your empathy and helps you craft interfaces that truly welcome everyone.

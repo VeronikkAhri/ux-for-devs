@@ -37,3 +37,43 @@ By thinking about UX while you code, you can build products that are more enjoya
 - Schedule small refactoring tasks regularly so UX improvements don’t pile up into a major overhaul.
 
 These practices encourage a mindset where UX quality is part of everyday development, not an afterthought.
+
+## Building Maintainable Code
+
+Readable code leads to more consistent user experiences. Name variables and functions clearly, and add comments when behavior might be ambiguous. Modular components also simplify updates, making it easier to improve UX over time.
+
+### Example: Accessible Navigation
+
+```html
+<nav aria-label="Primary">
+  <ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#about">About</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</nav>
+```
+
+```css
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+nav a:focus {
+  outline: 2px solid #000;
+}
+```
+
+This snippet shows semantic markup combined with clear focus styles so keyboard users can navigate easily.
+
+## Quality Assurance for UX
+
+UX doesn’t stop at feature completion. Include visual checks, automated accessibility testing, and manual user flow walkthroughs in your QA process. Encourage testers to report not only functional bugs but also confusing interactions or inconsistent styles.
+
+## Collaborating with QA Teams
+
+- Share design specs and prototypes so testers understand expected behavior.
+- Create test scenarios that include edge cases such as slow connections or incomplete data.
+- Treat bug reports as opportunities to refine both the interface and the underlying code.
+
+By weaving UX concerns into your development cycle, you ensure that quality is maintained from the first commit to the final release.

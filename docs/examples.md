@@ -178,3 +178,35 @@ Live regions provide dynamic notifications without interrupting screen reader us
 ## Additional Exercise
 
 Refactor an existing component in your project to improve keyboard support. Document the before-and-after behavior and note any challenges you encountered.
+
+## Example: Accessible Table
+
+```html
+<table aria-label="Schedule">
+  <thead>
+    <tr><th>Time</th><th>Activity</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>9 AM</td><td>Check email</td></tr>
+    <tr><td>10 AM</td><td>Team stand-up</td></tr>
+  </tbody>
+</table>
+```
+
+Tables convey structured information to screen readers when you provide header and body elements.
+
+## Example: Reduced Motion
+
+```css
+@media (prefers-reduced-motion: reduce) {
+  .spinner {
+    animation: none;
+  }
+}
+```
+
+Respecting the `prefers-reduced-motion` setting ensures users who are sensitive to animation can still enjoy your site.
+
+## Exercise: Design a Simple Game Interface
+
+Sketch out controls for a puzzle game that can be played with keyboard, mouse, or touch. Focus on clear icons, high contrast, and straightforward instructions. Share your design with friends and gather feedback on its clarity.

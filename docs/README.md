@@ -21,3 +21,11 @@ Each document focuses on practical guidance, clear examples, and explanations th
 Start with the introduction, then progress through the topics at your own pace. Many sections reference one another, so feel free to jump between them as needed. The examples file includes small code snippets that demonstrate key ideas from the other lessons.
 
 If you’re new to UX, focus on the principles and accessibility guides first. Developers looking to refine their skills may want to dive straight into the dev tips and usability testing sections.
+
+## About the Examples
+
+Throughout the course, you will find snippets in HTML, CSS, and JavaScript. These examples are intentionally simple so you can adapt them to your preferred framework or language. Copy the code directly into a sandbox environment and tweak it to see how small changes affect usability.
+
+## Looking for More Help?
+
+If you have questions while working through the lessons, consider opening an issue on the repository or starting a discussion with fellow learners. Sharing what you discover can help others who are new to UX as well.

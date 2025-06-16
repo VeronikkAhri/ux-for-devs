@@ -53,3 +53,17 @@ The more you empathize with each user group, the better your design decisions wi
 - Provide cues or step-by-step guidance to keep users oriented within a complex task.
 
 By broadening your understanding of diverse audiences, you ensure that your application remains useful and inviting to everyone who interacts with it.
+
+## Researching Your Audience
+
+Before designing features for a specific group, observe how people in that group currently accomplish tasks. Interviews, surveys, and analytics reveal pain points that you can address directly. This insight shapes personas—fictional characters that represent typical users—which help you visualize their goals and frustrations.
+
+## Customizing Experiences
+
+With a clearer picture of your audience, you can introduce optional settings or adaptive interfaces. Consider adjusting text size, adding shortcuts for frequent tasks, or offering guided tutorials for newcomers. Small touches that align with user preferences can significantly improve satisfaction.
+
+## Balancing Novice and Expert Workflows
+
+New users often need extra guidance, while experienced users want speed. Provide layered options so novices see step-by-step help, but experts can skip ahead or use keyboard shortcuts. A search bar or command palette can serve both groups by exposing functionality quickly.
+
+Remember: you may not belong to the user group you’re designing for. Continually revisit your assumptions and ask for feedback from real people who match your target audience.

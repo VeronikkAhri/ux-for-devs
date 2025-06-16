@@ -38,3 +38,19 @@ Keep the experience lightweight and intuitive so people can engage with your pro
 - Use platform accessibility APIs to announce changes in state, such as toggling a switch or loading new content.
 
 A mobile-first mindset encourages you to simplify complex ideas and deliver features that work well in any context, from busy city streets to quiet living rooms.
+
+## Adapting for Tablets and Large Phones
+
+Larger screens offer more space, but that doesn’t mean you should pack them with clutter. Consider using split views or side-by-side panels on tablets while still maintaining clear touch targets. Consistency across device sizes helps users feel at home whether they switch from phone to tablet or vice versa.
+
+## Wearable and Voice Interfaces
+
+Mobile devices increasingly connect with smart watches and voice assistants. Design concise interactions for these contexts—short notifications, quick actions, and voice commands that don’t require looking at the screen. Test with real devices to understand their limitations and opportunities.
+
+## Cross-Platform Testing Tips
+
+- Compare performance on both iOS and Android to spot platform-specific issues.
+- Verify that fonts, icons, and controls render consistently across different manufacturers.
+- Pay attention to privacy permissions: be clear about why your app requests access to location, camera, or other sensitive data.
+
+Good mobile UX balances small-screen efficiency with the power of modern devices. Continually evaluate new patterns—such as bottom navigation bars or gesture-based navigation—to ensure your app feels up to date.

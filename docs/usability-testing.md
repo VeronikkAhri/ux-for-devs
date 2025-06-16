@@ -38,3 +38,23 @@ Iterative testing keeps your project user-focused and leads to a smoother final 
 - Issue trackers make it easy to assign tasks and track fixes uncovered during sessions.
 
 Combining ethical practices with the right tools makes testing feel safe and productive for both you and your participants.
+
+## Writing a Test Script
+
+Create a short script outlining tasks and questions for participants. For example:
+
+1. "Find the settings page and change your password."
+2. "What do you expect will happen if you click this icon?"
+3. "On a scale from 1 to 5, how difficult was that task?"
+
+Having a script ensures consistency across sessions while allowing room for follow-up questions.
+
+## Involving the Whole Team
+
+Invite designers, developers, and stakeholders to observe sessions. Seeing real users struggle—or succeed—encourages buy-in for UX improvements. If people can’t attend, record the sessions and share summaries.
+
+## Measuring Success
+
+Track metrics like time on task, completion rates, and user satisfaction scores. Pair quantitative data with qualitative notes to identify trends. After implementing changes, run another round of tests to confirm that the experience truly improved.
+
+Regular testing keeps your product aligned with user needs and uncovers issues before they become costly to fix.

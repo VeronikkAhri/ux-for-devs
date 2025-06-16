@@ -40,3 +40,23 @@ While the core principles give you a strong foundation, there are additional fac
 - Can users easily recover from errors?
 
 Referring to this checklist during development can help you catch issues early, leading to smoother and more enjoyable experiences for your audience.
+
+## Prioritizing Features
+
+When planning new functionality, focus on the tasks that deliver the most value. Map features to user goals and align them with business objectives. This prevents scope creep and keeps the interface manageable.
+
+## Iterative Design in Practice
+
+UX is rarely perfect on the first try. Small, frequent updates allow you to adapt quickly to feedback. Release early versions, gather data on real usage, and refine the design. This incremental approach often produces better results than a big redesign every few years.
+
+### Example: Onboarding Process
+
+Imagine you are creating an onboarding tour for a new project management tool. Apply the principles as follows:
+
+1. **Consistency:** Use the same button styles and language throughout the tour.
+2. **Feedback:** Highlight the progress of completed steps so users know how far they have left to go.
+3. **Simplicity:** Only introduce features that help users accomplish their first task.
+4. **Hierarchy:** Emphasize the "Create Project" button to guide users to their first success.
+5. **User Control:** Provide a way to skip or revisit the tour at any time.
+
+This approach empowers new users without overwhelming them, setting the stage for a positive first impression.
